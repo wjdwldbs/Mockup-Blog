@@ -1,0 +1,49 @@
+body{
+    border: 20px solid #b3b3cc;
+    /* margin:1% 20% 1% 20%;
+    padding: 10px 50px; */
+    font-family: source sans pro;
+    padding: 20px;
+    max-width:700px;
+    width:80%;
+    margin: 20px auto;       
+}
+
+.line{
+    border:#b3b3cc solid 0.5px;
+    margin:center;
+    opacity: 0.5;
+}
+
+h3{
+    text-transform: uppercase;
+    color: #34AECC;
+    letter-spacing: 0.2rem;
+    font-weight: 400 bold;  
+}
+
+h1{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 2.0rem
+}
+
+.left{
+    border-left: #b3b3cc 4px solid;
+    padding-left: 5px; 
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.post1{
+    margin-bottom: 40px;
+}
+
+.line{
+    color: #AFCCE5;
+}
